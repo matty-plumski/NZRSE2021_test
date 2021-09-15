@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: ACADEMIC # Website name
-baseurl: 'https://example.com/' # Website URL
+title: NZRSE 2021 # Website name
+baseurl: 'https://nzrse2021.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
